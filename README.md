@@ -1,5 +1,5 @@
 # RecyclerViewWIthMultilineTextViewItems
-Example of a weird behavior of recycler view
+TextView item cuts off with multiple line content and recycler view set up as wrap_content
 
 
 
